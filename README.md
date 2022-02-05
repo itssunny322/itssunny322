@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: we living in sumulator.
 
 
-** Language and frameworks **
+**Language and frameworks**
 - Python
 - Java
 - Javascript
