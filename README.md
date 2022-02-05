@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **itssunny322/itssunny322** AKA Sunny Sourav, i will try to post different projects here**
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me : mail : itssunny322@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: we living in sumulator.
--->
+
 
 ** Language and frameworks **
 - Python
