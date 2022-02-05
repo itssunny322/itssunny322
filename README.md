@@ -1,16 +1,25 @@
 ### Hi there 👋
 
 <!--
-**itssunny322/itssunny322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itssunny322/itssunny322** AKA Sunny Sourav, i will try to post different projects here**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working as Full stack developer.
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on similar mind people 
+- 🤔 I’m looking for help with different topics
+- 💬 Ask me about web development, python scripting, blockchain.
+- 📫 How to reach me : mail : itssunny322@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: we living in sumulator.
 -->
+
+** Language and frameworks **
+- Python
+- Java
+- Javascript
+- Solidity
+- Django
+- React
+- Ajax 
