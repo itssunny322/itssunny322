@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Full stack developer.
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on similar mind people 
 - 🤔 I’m looking for help with different topics
 - 💬 Ask me about web development, python scripting, blockchain.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 **Language and frameworks**
 - Python
-- Java
 - Javascript
 - Solidity
+- Web3
 - Django
 - React
 - Ajax 
+- HTML,CSS
