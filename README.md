@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**itssunny322/itssunny322** AKA Sunny Sourav, i will try to post different projects here**
+**itssunny322/itssunny322** AKA Sunny Sourav, i will try to post different projects here
 
 Here are some ideas to get you started:
 
